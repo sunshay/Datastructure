@@ -6,5 +6,5 @@ class student():
         self.age = age
         self.section = section
 
-subject = student(Mike, Doussey, 35, male)
+subject = student( "Mike", "Doussey", 35, "male")
 print(subject)
