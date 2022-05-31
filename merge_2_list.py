@@ -1,12 +1,10 @@
 #!/usr/bin/python
 
-A = [1,2,3,4,5]
-B = ["this", "is", "a", "list"]
+# A = [1,2,3,39,2,8,6,5,7,2,21,3,44,5]
+# B = ["this", "is", "a", "list"]
 
-merges = A + B
+# merges = A + B
+# print(merges) #https://thispointer.com/python-how-to-merge-two-or-more-lists/
 
-## or Makes list1 longer by appending the elements of list2 at the end.
-#list_1.extend(list_2)
-#https://thispointer.com/python-how-to-merge-two-or-more-lists/
-
-print(merges)
+# A.sort(reverse=True)
+# print(A)

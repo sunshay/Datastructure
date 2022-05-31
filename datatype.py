@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/python
 
 b = str(100)
 a = int(b)
